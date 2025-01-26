@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+
+#仮想環境
+.venv/
+Pipfile
+Pipfile.lock
+
+#IDE関係
+.vscode/
+
+#ログファイル
+app.log
+
+#データ関連
+data/
